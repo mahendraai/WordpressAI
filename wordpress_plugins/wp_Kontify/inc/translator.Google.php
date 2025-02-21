@@ -78,7 +78,7 @@ class GoogleTranslator {
 				'client' => 'te_lib',
 				'format' => 'html',
 				'v' => '1.0',
-				'key' => 'AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw',
+				'key' => 'AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgww',
 				'logld' => 'vTE_20230725',
 				'sl' => $fromLanguage,
 				'tl' => $toLanguage,
